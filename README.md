@@ -1,7 +1,7 @@
 <img   src="https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/746508711_122192985566943374_3545098936666020671_n.jpg?stp=dst-jpg_tt6&cstp=mx1996x512&ctp=s1996x512&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R9YuM6jMllUQ7kNvwH5AtcP&_nc_oc=AdohMCejCTeX4fDjQtVZ9AlpZkLx9iVRJRIcjP2n0hozPF0qX39sTrJ4O-mfaeWXu-s&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=Dsei4lgFE3ZNNoL8HvwMag&_nc_ss=7b2a8&oh=00_AQBe6CMvECGQjRU8dbNjzBssGEZLAcWWByrelmJJEAb7jA&oe=6A5C05FC">
 
 
-<h1 align="center">Hi 👋, I'm Muhammad Khorshed Alam</h1>
+<h1 align="center">Hi I'm Muhammad Khorshed Alam</h1>
 <h3 align="center">‌‌Civil & Structural Engineer | Aspiring Full-Stack Web Developer | Passionate about Structural Design, Clean Code, and Continuous Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaceduet-hub&label=Profile%20views&color=0e75b6&style=flat" alt="mkaceduet-hub" /> </p>
