@@ -1,4 +1,4 @@
-<img   src="(https://pbs.twimg.com/media/HSdkC16a0AA3Dss?format=jpg&name=small)">
+<img   src="https://pbs.twimg.com/media/HSdkC16a0AA3Dss?format=jpg&name=small">
 
 
 <h1 align="center">Hi I'm Muhammad Khorshed Alam</h1>
